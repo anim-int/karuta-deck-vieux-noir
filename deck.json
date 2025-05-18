@@ -1,0 +1,43 @@
+{
+    "name": "Template deck",
+    "category": "KARUTA",
+    "type": "NORMAL",
+    "author": "Me",
+    "description": "My super karuta deck",
+	"prefix": "TST",
+    "cards": [
+        {
+            "id": 1,
+            "anime": "Bocchi The Rock!",
+            "numbering": "OP 1",
+            "title": "Seishun Complex",
+            "authors": "Kessoku Band",
+            "image": "BTR.png",
+            "audio": "seishun_complex.mp3",
+            "audio_url": "https://www.youtube.com/watch?v=dlSbEP4V-gI",
+            "anilist_id": 130003
+        },
+        {
+            "id": 2,
+            "anime": "Rascal Does Not Dream Of A Bunny Girl Senpai",
+            "numbering": "ED 1",
+            "title": "Fukashigi no Karute",
+            "authors": "Mai Sakurajima (Asami Seto), Tomoe Koga (Nao Touyama), Rio Futaba (Atsumi Tanezaki), Nodoka Toyohama (Maaya Uchida), Kaede Azusawara (Yurika Kubo), Shouko Makinohara (Inori Minase)",
+            "image": "bunny_girl.png",
+            "audio": "fukashigi_no_karute.mp3",
+            "audio_url": "https://www.youtube.com/watch?v=YjrSkBjDVEw",
+            "anilist_id": 101291
+        },
+        {
+            "id": 3,
+            "anime": "Glass no Hana to Kowasu Sekai",
+            "numbering": "Trailer",
+            "title": "Sendan Life",
+            "authors": "Remo Prototype",
+            "image": "garakowa.png",
+            "audio": "sendan_life.mp3",
+            "audio_url": "https://www.youtube.com/watch?v=qu1fnhI65mk",
+            "anilist_id": 21042
+        }
+    ]
+}
