@@ -1,4 +1,4 @@
-# Deck Vieux Noir
+# Vieux Noir
 **Auteur :** Un vieux  
 **Categorie :** KARUTA  
 **Type :** NORMAL  
